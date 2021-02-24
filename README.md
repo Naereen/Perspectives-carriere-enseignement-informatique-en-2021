@@ -176,4 +176,21 @@ S'il fallait survivre avec 6 livres et max 200€ de budget :
 
 - Ce document a été rédigé le 23/02/2021, et les liens cités peuvent ne plus être valables, ou avoir été modifiés au moment de votre lecture ;
 - Normalement, les liens cités ont tous été archivés sur <https://web.archive.org/>, sur un lien invalide ajoutez `https://web.archive.org/web/*/` devant l'URL !
-- Auteur : [Lilian Besson](https://besson.link/), [MIT Licence](https://lbesson.mit-license.org/).
+
+### :scroll: Licence ? [![GitHub licence](https://img.shields.io/github/license/Naereen/Perspectives-carriere-enseignement-informatique-en-2021/.svg)](https://github.com/Naereen/Perspectives-carriere-enseignement-informatique-en-2021//blob/master/LICENSE)
+
+Ce projet et cette documentation sont distribuées en accès libre selon les conditions de la [licence MIT](https://lbesson.mit-license.org/) (cf le fichier [LICENSE](LICENSE) en anglais).
+© [Lilian Besson](https://GitHub.com/Naereen), 2021.
+
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+[![made-with-markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](https://commonmark.org/)
+[![made-with-StrapDownJS](https://img.shields.io/badge/Made%20with-StrapDownJS-1f425f.svg)](https://github.com/Naereen/StrapDown.js/)
+[![made-with-latex](https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg)](https://www.latex-project.org/)
+[![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
+[![HitCount](http://hits.dwyl.io/Naereen/Perspectives-carriere-enseignement-informatique-en-2021/.svg)](http://hits.dwyl.io/Naereen/Perspectives-carriere-enseignement-informatique-en-2021/)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/Perspectives-carriere-enseignement-informatique-en-2021//graphs/commit-activity)
+[![Demandez moi n'importe quoi !](https://img.shields.io/badge/Demandez%20moi-n'%20importe%20quoi-1abc9c.svg)](https://GitHub.com/Naereen/ama.fr)
+[![ForTheBadge uses-badges](http://ForTheBadge.com/images/badges/uses-badges.svg)](http://ForTheBadge.com)
+[![ForTheBadge uses-git](http://ForTheBadge.com/images/badges/uses-git.svg)](https://GitHub.com/)
+[![ForTheBadge built-with-swag](http://ForTheBadge.com/images/badges/built-with-swag.svg)](https://GitHub.com/Naereen/)
