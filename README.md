@@ -29,11 +29,11 @@ Site de référence : <http://www.devenirenseignant.gouv.fr/>, et notamment [de 
 ### L'agrégation de mathématiques, option info (D)
 
 - Le site de référence est <https://agreg.org>
-- [Le programme de 2021 est là](https://media.devenirenseignant.gouv.fr/file/agregation_externe_21/90/9/p2021_agreg_ext_mathematiques_1274909.pdf), **lisez le** et **surlignez en vert/orange/rouge** ce que vous maîtriser bien/pas bien/pas du tout !
+- [Le programme de 2021 est là](https://media.devenirenseignant.gouv.fr/file/agregation_externe_21/90/9/p2021_agreg_ext_mathematiques_1274909.pdf), **lisez le** et **surlignez en vert/orange/rouge** ce que vous maîtrisez bien/pas bien/pas du tout !
 - [L'oral de modélisation](https://agreg.org/index.php?id=modelisation), détaillé dans [ce document](https://agreg.org/data/uploads/exposemod_prepa2019.pdf), qui utilise [le système CLEFAGREG basé sur XUbuntu 18.04](http://clefagreg.dnsalias.org/), et autorise OCaml 4.05 et Python 3 (et C et Java) en option info.
 - Un excellent site de ressources est <https://agreg-maths.fr/>
 
-- Il y a depuis 2016 un concours "spécial docteur" ouverts uniquement aux docteurs (en maths ou informatique), avec ~15 places réservées et des épreuves spécifiques. Intéressant si vous souhaitez passer l'agrégation **après** votre thèse !
+- Il y a depuis 2016 un concours "spécial docteur" ouvert uniquement aux docteurs (en maths ou informatique), avec ~15 places réservées et des épreuves spécifiques. Intéressant si vous souhaitez passer l'agrégation **après** votre thèse !
 
 ### CAPES d'informatique - créé en 2020
 
