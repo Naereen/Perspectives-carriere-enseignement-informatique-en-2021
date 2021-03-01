@@ -177,6 +177,15 @@ S'il fallait survivre avec 6 livres et max 200€ de budget :
 - Ce document a été rédigé le 23/02/2021, et les liens cités peuvent ne plus être valables, ou avoir été modifiés au moment de votre lecture ;
 - Normalement, les liens cités ont tous été archivés sur <https://web.archive.org/>, sur un lien invalide ajoutez `https://web.archive.org/web/*/` devant l'URL !
 
+### Remarque quant à l'aspect financier
+
+Si vous êtes passionné-e d'informatique et que vous cherchez à obtenir un travail très bien payé, l'enseignement n'est probablement pas la bonne direction.
+Cherchez une grande entreprise ou une start-up qui pourra vous embaucher, par exemple via [LinkedIn](https://fr.linkedin.com/), [GlassDoor](https://www.glassdoor.fr/index.htm), [Indeed](https://fr.indeed.com/)
+
+![What_motivated_you_to_learn_computer_science.png](What_motivated_you_to_learn_computer_science.png)
+
+Si vous êtes en manque d'humour, [j'ai une liste de blague sur mon site](https://besson.link/blagues.fr.html), et je recommande ces deux sites : <https://lesjoiesducode.fr/> et <https://www.commitstrip.com/fr/>.
+
 ### :scroll: Licence ? [![GitHub licence](https://img.shields.io/github/license/Naereen/Perspectives-carriere-enseignement-informatique-en-2021/.svg)](https://github.com/Naereen/Perspectives-carriere-enseignement-informatique-en-2021//blob/master/LICENSE)
 
 Ce projet et cette documentation sont distribuées en accès libre selon les conditions de la [licence MIT](https://lbesson.mit-license.org/) (cf le fichier [LICENSE](LICENSE) en anglais).
